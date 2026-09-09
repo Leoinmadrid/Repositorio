@@ -1,0 +1,22 @@
+#header {
+    background-color: #1f5c0e;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px;
+    font-family: 'Arial', sans-serif;
+    letter-spacing: 2px;
+}
+#header h1 {
+    font-size: 36px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #676784;
+    display: inline-block;
+}
+
+.post .author. {
+    font-weight: bold;
+    font-size: 16px;
+    color: #f97171;
+    margin-bottom: 2px;
+}
